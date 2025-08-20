@@ -42,5 +42,5 @@ If you have additional lab reports or presentations for CSIT subjects, you are w
 
 ## ⭐ Support
 
-If this repo helped you, consider giving it a **star 🌟** and sharing it with your CSIT friends!
+If this repo helped you, consider giving it a **star 🌟** and sharing it with your CSIT friends`!
 
