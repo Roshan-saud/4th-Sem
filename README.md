@@ -1,7 +1,7 @@
-📚 CSIT Lab Reports & Presentations
+📘 CSIT Lab Reports & OS Presentation
 
-This repository contains lab reports, presentations, and study materials for BSc. CSIT (Tribhuvan University) courses.
-It is intended to help CSIT students by providing structured resources for lab work, assignments, and presentations.
+This repository contains lab reports and a presentation prepared during the BSc. CSIT (Tribhuvan University) coursework.
+It serves as a reference for CSIT students who want to review lab works and prepare their own reports.
 
 📂 Contents
 
@@ -9,52 +9,44 @@ Artificial Intelligence (AI)
 
 Lab reports
 
-Sample programs
-
 Theory of Computation (TOC)
 
 Lab reports
-
-Related notes
 
 Operating Systems (OS)
 
 Lab reports
 
-Sample codes
-
-Presentations
-
-Subject-wise PPTs
+📑 Presentation (OS topic)
 
 🎯 Purpose
 
-To maintain a well-organized collection of lab reports and resources.
+To maintain a structured collection of CSIT lab reports.
 
-To help fellow students revise, prepare, and reference materials easily.
+To help students quickly revise and prepare reports.
 
-To contribute to the CSIT open-source community.
+To share academic resources with the CSIT community.
 
 🚀 How to Use
 
-Navigate to the subject folder.
+Go to the subject folder of your choice.
 
-Open the respective lab report or presentation.
+Open the lab report or OS presentation.
 
-Use it for reference in your coursework.
+Use it for reference while preparing your own work.
 
-⚠️ Disclaimer: These materials are for educational and reference purposes only. Students are encouraged to understand and write their own reports instead of copying.
+⚠️ Disclaimer: These reports and the presentation are for educational reference only. Please try to understand and write your own reports instead of direct copy-paste.
 
 🤝 Contribution
 
-If you have lab reports, notes, or presentations for CSIT subjects, feel free to contribute:
+If you have additional lab reports or presentations for CSIT subjects, you are welcome to contribute:
 
-Fork the repo
+Fork this repository
 
 Add your files in the correct subject folder
 
-Create a pull request
+Submit a pull request
 
 ⭐ Support
 
-If you find this repository useful, don’t forget to star 🌟 the repo and share it with your CSIT friends!
+If this repo helped you, consider giving it a star 🌟 and sharing it with your CSIT friends!
