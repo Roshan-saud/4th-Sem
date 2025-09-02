@@ -1,4 +1,4 @@
-// LAB1: Program to find prefixes, suffixes and substrings from a given string (Using C, C++ or else)
+//LAB1: Program to find prefixes, suffixes and substrings from a given string (Using C, C++ or else)
 #include <iostream>
 #include <cstring>
 #include <set>

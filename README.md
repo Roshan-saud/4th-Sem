@@ -44,3 +44,9 @@ If you have additional lab reports or presentations for CSIT subjects, you are w
 
 If this repo helped you, consider giving it a **star 🌟** and sharing it with your CSIT friends`!
 
+
+
+
+
+
+6.2 Turing Machine as a Language Recognizer, Turing Machine as a Computing Function, Turing Machine with Storage in its State, Turing Machine as a enumerator of stings of a language, Turing Machine as Subroutine
