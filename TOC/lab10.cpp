@@ -26,3 +26,38 @@ int main(){
     if(f(w)) cout<<"Accepted\n";
     else cout<<"Rejected\n";
 }
+
+
+
+
+
+// #include <iostream>
+// #include <stack>
+// using namespace std;
+
+// bool f(const string &w) {
+//     stack<char> st;
+//     bool seenB = false;
+
+//     for (char x : w) {
+//         if (x == 'a') {
+//             if (seenB) return false; // 'a' after 'b' not allowed
+//             st.push('a');
+//         } 
+//         else if (x == 'b') {
+//             seenB = true;
+//             if (st.empty()) return false;
+//             st.pop();
+//         } 
+//         else return false; // invalid character
+//     }
+
+//     return !st.empty() ? false : true; // accept if stack empty
+// }
+
+// int main() {
+//     string w;
+//     cout<<"Enter string: ";
+//     cin >> w;
+//     cout << (f(w) ? "Accepted\n" : "Rejected\n");
+// }

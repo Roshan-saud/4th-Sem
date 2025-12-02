@@ -1,4 +1,6 @@
 // LAB9. C++ code that generates strings representing properly balanced parentheses using a context-free grammar:
+// Cn​= 1/(n+1) * ​((2n)!/(n!*n!​))
+
 #include <iostream>
 #include <string>
 

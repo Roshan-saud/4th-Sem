@@ -1,4 +1,5 @@
 // LAB2: Program to validate C identifiers and keywords.
+
 #include <iostream>
 #include <string>
 #include <unordered_set>
@@ -45,6 +46,52 @@ int main()
 }
 
 
+
+// #include <iostream>
+// #include <string>
+// #include <unordered_set>
+// #include <cctype> // for isalpha, isalnum
+// using namespace std;
+
+// int main()
+// {
+//     string str;
+//     cout << "Enter a string: ";
+//     getline(cin, str); // allows spaces in input
+
+//     // Check if the first character is a letter or underscore
+//     if (str.empty() || (!isalpha(str[0]) && str[0] != '_'))
+//     {
+//         cout << "Invalid identifier" << endl;
+//         return 0;
+//     }
+
+//     // Check remaining characters
+//     for (size_t i = 1; i < str.size(); i++)
+//     {
+//         char c = str[i];
+//         if (!isalnum(c) && c != '_')
+//         {
+//             cout << "Invalid identifier" << endl;
+//             return 0;
+//         }
+//     }
+
+//     // C keywords
+//     unordered_set<string> keywords = {
+//         "auto","break","case","char","const","continue","default","do","double",
+//         "else","enum","extern","float","for","goto","if","int","long","register",
+//         "return","short","signed","sizeof","static","struct","switch","typedef",
+//         "union","unsigned","void","volatile","while"
+//     };
+
+//     if (keywords.count(str))
+//         cout << "Keyword" << endl;
+//     else
+//         cout << "Valid identifier" << endl;
+
+//     return 0;
+// }
 
 
 
