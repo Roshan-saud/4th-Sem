@@ -1,52 +1,38 @@
-# 📘 CSIT Lab Reports & OS Presentation
+📘 CSIT Lab Reports & OS Presentation
 
-This repository contains **lab reports** and a presentation prepared during the **BSc. CSIT (Tribhuvan University)** coursework.
+This repository contains lab reports and a presentation prepared during the BSc. CSIT (Tribhuvan University) coursework.
 It serves as a reference for CSIT students who want to review lab works and prepare their own reports.
 
-## 📂 Contents
+📂 Contents
 
-* **Artificial Intelligence (AI)**
+Artificial Intelligence (AI)
 
-  * Lab reports
+Lab reports
 
-* **Theory of Computation (TOC)**
+Theory of Computation (TOC)
 
-  * Lab reports
+Lab reports
 
-* **Operating Systems (OS)**
+6.2 Turing Machine
 
-  * Lab reports
-  * 📑 Presentation (OS topic)
+Operating Systems (OS)
 
-## 🎯 Purpose
+Lab reports
 
-* To maintain a structured collection of CSIT lab reports.
-* To help students quickly revise and prepare reports.
-* To share academic resources with the CSIT community.
+📑 Presentation (OS topic)
 
-## 🚀 How to Use
+Database Management System (DBMS)
 
-1. Go to the subject folder of your choice.
-2. Open the lab report or OS presentation.
-3. Use it for reference while preparing your own work.
+Lab reports
 
-> ⚠️ **Disclaimer:** These reports and the presentation are for **educational reference only**. Please try to understand and write your own reports instead of direct copy-paste.
+Computer Networks (CN)
 
-## 🤝 Contribution
+Lab reports
 
-If you have additional lab reports or presentations for CSIT subjects, you are welcome to contribute:
+🎯 Purpose
 
-* Fork this repository
-* Add your files in the correct subject folder
-* Submit a pull request
+To maintain a structured collection of CSIT lab reports.
 
-## ⭐ Support
+To help students quickly revise and prepare reports.
 
-If this repo helped you, consider giving it a **star 🌟** and sharing it with your CSIT friends`!
-
-
-
-
-
-
-6.2 Turing Machine as a Language Recognizer, Turing Machine as a Computing Function, Turing Machine with Storage in its State, Turing Machine as a enumerator of stings of a language, Turing Machine as Subroutine
+To share academic resources with the CSIT community.achine as a Language Recognizer, Turing Machine as a Computing Function, Turing Machine with Storage in its State, Turing Machine as a enumerator of stings of a language, Turing Machine as Subroutine
